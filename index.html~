@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<body background="texture.jpg"><center>
+		<font size="+72" color="#000000"><p><strong>PIONEER PD-S505</strong></p></font>
+		<br>
+		<img src="pioneer_cd/cd001.jpg" height="800" width="1066" alt="">
+		<br>
+		<img src="pioneer_cd/cd002.jpg" height="800" width="1066" alt="">
+		<br>
+		<img src="pioneer_cd/cd003.jpg" height="800" width="1066" alt="">
+		<br>
+		<img src="pioneer_cd/cd004.jpg" height="800" width="1066" alt="">
+		<br>
+		<img src="pioneer_cd/cd005.jpg" height="800" width="1066" alt="">
+		<br>
+		<font size="+72" color="#000000"><p><strong>HAMA DIT-2000</strong></p></font>
+		<br>
+		<img src="pioneer_cd/cd001.jpg" height="800" width="1066" alt="">
+		<br>
+		<img src="pioneer_cd/cd002.jpg" height="800" width="1066" alt="">
+		<br>
+		<img src="pioneer_cd/cd003.jpg" height="800" width="1066" alt="">
+		<br>
+		<img src="pioneer_cd/cd004.jpg" height="800" width="1066" alt="">
+		<br>
+		<img src="pioneer_cd/cd005.jpg" height="800" width="1066" alt="">
+		<br>
+	</center></body>
+</html>
